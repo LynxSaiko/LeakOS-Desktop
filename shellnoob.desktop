@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ShellNoob
+Comment=Shellcode writing tool and assembly helper.
+# Perintah Exec yang sederhana tanpa sudo
+Exec=/usr/bin/snoob
+Icon=security-reverse
+Terminal=true
+Type=Application
+Categories=LEAKOS-reverse;Development;Security;
