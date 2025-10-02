@@ -1,0 +1,8 @@
+[Desktop Entry]	
+Name=reaver	
+Comment=Brute force attack against Wireless Protected Setup (WPS) PINs.	
+Exec=sudo /usr/bin/reaver	
+Icon=network-wireless	
+Terminal=true	
+Type=Application	
+Categories=LEAKOS-wireless;Security;Network;
