@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=John the Ripper
+Comment=Fast password cracker, currently available for many flavors of Unix, Windows, DOS, BeOS, and OpenVMS.
+# Menggunakan sudo karena seringkali diperlukan untuk hash sistem.
+Exec=sudo /usr/sbin/john
+Icon=security-password
+Terminal=true
+Type=Application
+Categories=LEAKOS-password;Security;Utility;
