@@ -1,0 +1,8 @@
+[Desktop Entry]	
+Name=bully	
+Comment=WPS brute force attack implementation in C.	
+Exec=sudo /usr/bin/bully	
+Icon=network-wireless	
+Terminal=true	
+Type=Application	
+Categories=LEAKOS-wireless;Security;Network;
