@@ -1,0 +1,8 @@
+[Desktop Entry]	
+Name=aircrack-ng	
+Comment=802.11 WEP and WPA-PSK key cracking program.	
+Exec=sudo /usr/bin/aircrack-ng	
+Icon=network-wireless	
+Terminal=true	
+Type=Application	
+Categories=LEAKOS-wireless;Security;Network;
