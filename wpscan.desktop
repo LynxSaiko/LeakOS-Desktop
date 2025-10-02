@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=WPScan
-Comment=WordPress security scanner written in Ruby.
-# Perintah Exec yang paling aman (menggunakan jalur absolut dan sudo)
-Exec=sudo /usr/bin/wpscan
-Icon=security-vulnerability
-Terminal=true
-Type=Application
-Categories=LEAKOS-vuln-assess;Security;Network;
