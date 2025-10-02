@@ -1,0 +1,8 @@
+[Desktop Entry]	
+Name=pixiewps	
+Comment=WPS brute-force tool focused on the offline Pixie Dust attack.	
+Exec=sudo /usr/bin/pixiewps	
+Icon=network-wireless	
+Terminal=true	
+Type=Application	
+Categories=LEAKOS-wireless;Security;Network;
