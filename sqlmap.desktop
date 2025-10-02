@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=sqlmap
+Comment=Automatic SQL injection and database takeover tool.
+# Menggunakan sudo dan jalur absolut untuk eksekusi yang andal.
+Exec=sudo /usr/bin/sqlmap
+Icon=security-exploit
+Terminal=true
+Type=Application
+Categories=LEAKOS-exploit-test;Security;Network;
