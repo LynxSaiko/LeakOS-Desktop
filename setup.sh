@@ -45,7 +45,7 @@ try {
 EOF
 
 # Buat directory distribution
-sudo mkdir -p /ust/share/firefox/distribution
+sudo mkdir -p /usr/share/firefox/distribution
 
 # Buat policies.json
 sudo cat > /usr/share/firefox/distribution/policies.json << 'EOF'
