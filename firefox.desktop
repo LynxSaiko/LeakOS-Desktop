@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Firefox Web Browser
+Comment=Browse the World Wide Web.
+Exec=/usr/bin/firefox %u
+Icon=firefox
+Terminal=false
+Type=Application
+Categories=LEAKOS-internet;Network;
